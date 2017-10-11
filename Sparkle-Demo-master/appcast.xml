@@ -12,7 +12,7 @@
                 </ul>
             ]]></description>
             <pubDate>2017-07-08 01:47:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/chengelvis/AppUpdate/master/Sparkle-Demo-master/Updater3.0.zip" length="1504338" type="application/octet-stream" sparkle:version="3.0" sparkle:shortVersionString="3.1" sparkle:dsaSignature="MCwCFBDDxWmcTZX1gA/WxPqdGWyxMGj0AhROWuIZkxH0tvH19bZMugfIlAXAlA==">
+            <enclosure url="https://raw.githubusercontent.com/chengelvis/AppUpdate/master/Sparkle-Demo-master/Updater3.1.zip" length="1504338" type="application/octet-stream" sparkle:version="3.0" sparkle:shortVersionString="3.1" sparkle:dsaSignature="MCwCFBDDxWmcTZX1gA/WxPqdGWyxMGj0AhROWuIZkxH0tvH19bZMugfIlAXAlA==">
             </enclosure>
         </item>
 	</channel>
