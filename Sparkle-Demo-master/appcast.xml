@@ -6,12 +6,12 @@
 		<description>ChangelogChangelogChangelogChangelog</description>
 		<language>en</language>
         <item>
-            <title><![CDATA[Version 3.0]]></title>
-            <description><![CDATA[<ul>
+            <title>Version 3.2(2 bugs fixed; 3 new features)</title>
+            <description><ul>
                 <li>修复问题</li>
                 <li>修复问题1</li>
                 </ul>
-            ]]></description>
+            </description>
             <pubDate>2017-07-08 01:47:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/chengelvis/AppUpdate/master/Sparkle-Demo-master/Updater3.2.zip" length="1504338" type="application/octet-stream" sparkle:version="3.0" sparkle:shortVersionString="3.2" sparkle:dsaSignature="MCwCFCjC4FDQ7znbQs61uNcTW+W4sgVNAhRRzBuFTtM7n2eESJSqsni5iQ8UNg==">
             </enclosure>
