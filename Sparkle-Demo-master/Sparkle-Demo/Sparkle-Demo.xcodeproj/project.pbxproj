@@ -13,6 +13,7 @@
 		B8E135431EE90E2600F8F73E /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = B8E135411EE90E2600F8F73E /* MainMenu.xib */; };
 		B8E1354B1EE90FA800F8F73E /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8E1354A1EE90FA800F8F73E /* Sparkle.framework */; };
 		B8E1354D1EE90FDC00F8F73E /* Sparkle.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B8E1354A1EE90FA800F8F73E /* Sparkle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C5B5AC101F8DC798005AD689 /* dsa_pub.pem in Resources */ = {isa = PBXBuildFile; fileRef = C5B5AC0F1F8DC798005AD689 /* dsa_pub.pem */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +39,7 @@
 		B8E135421EE90E2600F8F73E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		B8E135441EE90E2600F8F73E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B8E1354A1EE90FA800F8F73E /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Sparkle.framework; sourceTree = "<group>"; };
+		C5B5AC0F1F8DC798005AD689 /* dsa_pub.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dsa_pub.pem; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		B8E1353C1EE90E2600F8F73E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C5B5AC0F1F8DC798005AD689 /* dsa_pub.pem */,
 				B8E1353D1EE90E2600F8F73E /* main.m */,
 			);
 			name = "Supporting Files";
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8E135401EE90E2600F8F73E /* Assets.xcassets in Resources */,
+				C5B5AC101F8DC798005AD689 /* dsa_pub.pem in Resources */,
 				B8E135431EE90E2600F8F73E /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -318,6 +322,7 @@
 				B8E135491EE90E2600F8F73E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -19,7 +19,7 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
     // Insert code here to initialize your application
     [SUUpdater sharedUpdater].delegate = self;
-    [[SUUpdater sharedUpdater] setSendsSystemProfile:YES];
+    [[SUUpdater sharedUpdater] setSendsSystemProfile:NO];
     //............
     [[SUUpdater sharedUpdater] checkForUpdatesInBackground];
 }
