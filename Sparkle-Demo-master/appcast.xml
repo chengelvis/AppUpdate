@@ -12,7 +12,7 @@
                 <li>修复问题2</li>
                 </ul>
             ]]></description>
-            <pubDate>2017-07-08 01:47:00 GMT</pubDate>
+            <pubDate>2017-07-09 01:47:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/chengelvis/AppUpdate/master/Sparkle-Demo-master/Updater3.5.zip" length="1504340" type="application/octet-stream" sparkle:version="3.0" sparkle:shortVersionString="3.5" sparkle:dsaSignature="MC0CFQCXQWVoEM310bfv/eD0Kn+jqDVPaQIUUCi+qQuEGuZecpBRdryVvMCaxs8=">
             </enclosure>
         </item>
